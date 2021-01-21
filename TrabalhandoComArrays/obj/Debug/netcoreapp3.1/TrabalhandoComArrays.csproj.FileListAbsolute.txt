@@ -1,0 +1,13 @@
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\TrabalhandoComArrays\TrabalhandoComArrays\bin\Debug\netcoreapp3.1\TrabalhandoComArrays.exe
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\TrabalhandoComArrays\TrabalhandoComArrays\bin\Debug\netcoreapp3.1\TrabalhandoComArrays.deps.json
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\TrabalhandoComArrays\TrabalhandoComArrays\bin\Debug\netcoreapp3.1\TrabalhandoComArrays.runtimeconfig.json
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\TrabalhandoComArrays\TrabalhandoComArrays\bin\Debug\netcoreapp3.1\TrabalhandoComArrays.runtimeconfig.dev.json
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\TrabalhandoComArrays\TrabalhandoComArrays\bin\Debug\netcoreapp3.1\TrabalhandoComArrays.dll
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\TrabalhandoComArrays\TrabalhandoComArrays\bin\Debug\netcoreapp3.1\TrabalhandoComArrays.pdb
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\TrabalhandoComArrays\TrabalhandoComArrays\obj\Debug\netcoreapp3.1\TrabalhandoComArrays.csprojAssemblyReference.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\TrabalhandoComArrays\TrabalhandoComArrays\obj\Debug\netcoreapp3.1\TrabalhandoComArrays.AssemblyInfoInputs.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\TrabalhandoComArrays\TrabalhandoComArrays\obj\Debug\netcoreapp3.1\TrabalhandoComArrays.AssemblyInfo.cs
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\TrabalhandoComArrays\TrabalhandoComArrays\obj\Debug\netcoreapp3.1\TrabalhandoComArrays.csproj.CoreCompileInputs.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\TrabalhandoComArrays\TrabalhandoComArrays\obj\Debug\netcoreapp3.1\TrabalhandoComArrays.dll
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\TrabalhandoComArrays\TrabalhandoComArrays\obj\Debug\netcoreapp3.1\TrabalhandoComArrays.pdb
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Concessionaria\Programas\TrabalhandoComArrays\TrabalhandoComArrays\obj\Debug\netcoreapp3.1\TrabalhandoComArrays.genruntimeconfig.cache
